@@ -1,4 +1,4 @@
 .DS_Store
 ._*
-/Icons/*.icns
-/Icons/*.iconset
+/Icons/**/*.icns
+/Icons/**/*.iconset
