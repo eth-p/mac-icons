@@ -11,7 +11,7 @@ An assortment of custom MacOS folder icons designed to match the native look and
 ## Installation
 
 **Step 1: Download the icons.**  
-Download the zip for your version of MacOS from the [latest release](https://github.com/eth-p/bat-extras/releases/latest).
+Download the zip for your version of MacOS from the [latest release](https://github.com/eth-p/mac-icons/releases/latest).
 
 **Step 2: Find a folder.**  
 In Finder, right-click on the folder you want to apply an icon to and choose "Get Info".
