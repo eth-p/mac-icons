@@ -4,6 +4,7 @@ An assortment of custom MacOS folder icons designed to match the native look and
 
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/32112321/114133617-2a3ed800-98bb-11eb-80b5-3aa783c650a2.png)
 
 
 
