@@ -4,7 +4,12 @@ template_info() {
 }
 
 template_enabled() {
-	[[ "$(sw_vers -productVersion | cut -d'.' -f1)" -eq 11 ]] || return $?
+	local vers
+	vers="$(sw_vers -productVersion | cut -d'.' -f1)"
+	case "$vers" in
+		11|12) return 0 ;;
+		*)     return 1 ;;
+	esac
 }
 
 template_emboss() {
